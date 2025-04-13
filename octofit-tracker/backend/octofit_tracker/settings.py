@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-!^iprgdp1vc%+inewev@1r%1f-h*d3+-fv1akq%evyp64phs#8
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["solid-lamp-xrrvg4wrj673v6wv-8000.app.github.dev", "localhost"]
 
 
 # Application definition
